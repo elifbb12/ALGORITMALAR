@@ -1,0 +1,7 @@
+C:\Users\ELiF\source\repos\ALGORİTMALAR(1.DERS)\ALGORİTMALAR(1.DERS)\bin\Debug\ALGORİTMALAR(1.DERS).exe.config
+C:\Users\ELiF\source\repos\ALGORİTMALAR(1.DERS)\ALGORİTMALAR(1.DERS)\bin\Debug\ALGORİTMALAR(1.DERS).exe
+C:\Users\ELiF\source\repos\ALGORİTMALAR(1.DERS)\ALGORİTMALAR(1.DERS)\bin\Debug\ALGORİTMALAR(1.DERS).pdb
+C:\Users\ELiF\source\repos\ALGORİTMALAR(1.DERS)\ALGORİTMALAR(1.DERS)\obj\Debug\ALGORİTMALAR(1.DERS).csprojAssemblyReference.cache
+C:\Users\ELiF\source\repos\ALGORİTMALAR(1.DERS)\ALGORİTMALAR(1.DERS)\obj\Debug\ALGORİTMALAR(1.DERS).csproj.CoreCompileInputs.cache
+C:\Users\ELiF\source\repos\ALGORİTMALAR(1.DERS)\ALGORİTMALAR(1.DERS)\obj\Debug\ALGORİTMALAR(1.DERS).exe
+C:\Users\ELiF\source\repos\ALGORİTMALAR(1.DERS)\ALGORİTMALAR(1.DERS)\obj\Debug\ALGORİTMALAR(1.DERS).pdb
